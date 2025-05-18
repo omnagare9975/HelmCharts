@@ -4,5 +4,4 @@ image:
   pullPolicy: IfNotPresent
 appMessage: "Consumer Service"
 
-service:
-  port: 8080
+
