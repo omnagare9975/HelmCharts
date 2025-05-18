@@ -3,3 +3,6 @@ image:
   tag: latest
   pullPolicy: IfNotPresent
 appMessage: "Consumer Service"
+
+service:
+  port: 8080
